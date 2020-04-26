@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+div {
+	border: solid 1px blue;
+	margin:10px;
+	padding:10px;
+	width: 50%;
+}
+
+ .table1 td {
+		margin:10px;
+	padding:10px;
+	background: white;
+
+}
+
+ .table1  tr {
+		margin:10px;
+	padding:10px;
+	background: white;
+
+}
+
+.table2 td {
+		margin:10px;
+	padding:10px;
+	background: white;
+	border: 1px dotted gray;
+}
+
+ .table2  th {
+	padding:10px;
+	background: orange;
+	border: 1px dotted gray;
+}
